@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\Contoh Soal\Contoh Soal\bin\Debug\Contoh Soal.exe.config
+C:\Users\LENOVO\source\repos\Contoh Soal\Contoh Soal\bin\Debug\Contoh Soal.exe
+C:\Users\LENOVO\source\repos\Contoh Soal\Contoh Soal\bin\Debug\Contoh Soal.pdb
+C:\Users\LENOVO\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh Soal.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh_Soal.Form1Login.resources
+C:\Users\LENOVO\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh_Soal.Form2Register.resources
+C:\Users\LENOVO\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh_Soal.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh Soal.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh Soal.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh Soal.exe
+C:\Users\LENOVO\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh Soal.pdb
+C:\Users\LENOVO\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh_Soal.Form3Dashboard.resources
+C:\Users\LENOVO\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh_Soal.Form4Bandara.resources
+C:\Users\LENOVO\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh_Soal.Form5Maskapai.resources
+C:\Users\LENOVO\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh_Soal.Form6JadwalPenerbangan.resources
+C:\Users\LENOVO\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh_Soal.Form7KodePromo.resources
+C:\Users\LENOVO\source\repos\Contoh Soal\Contoh Soal\obj\Debug\Contoh_Soal.Form8UbahStatusPenerbangan.resources
