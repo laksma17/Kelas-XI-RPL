@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.exe.config
+C:\Users\LENOVO\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.exe
+C:\Users\LENOVO\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\bin\Debug\Kalkulator Sederhana.pdb
+C:\Users\LENOVO\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator_Sederhana.Form1.resources
+C:\Users\LENOVO\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator_Sederhana.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.exe
+C:\Users\LENOVO\source\repos\Kalkulator Sederhana\Kalkulator Sederhana\obj\Debug\Kalkulator Sederhana.pdb
