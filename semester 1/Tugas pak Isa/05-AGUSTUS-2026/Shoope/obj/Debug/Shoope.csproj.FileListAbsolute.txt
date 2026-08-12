@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Shoope\Shoope\bin\Debug\Shoope.exe.config
+C:\Users\LENOVO\source\repos\Shoope\Shoope\bin\Debug\Shoope.exe
+C:\Users\LENOVO\source\repos\Shoope\Shoope\bin\Debug\Shoope.pdb
+C:\Users\LENOVO\source\repos\Shoope\Shoope\obj\Debug\Shoope.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Shoope\Shoope\obj\Debug\Shoope.Form1.resources
+C:\Users\LENOVO\source\repos\Shoope\Shoope\obj\Debug\Shoope.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Shoope\Shoope\obj\Debug\Shoope.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Shoope\Shoope\obj\Debug\Shoope.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Shoope\Shoope\obj\Debug\Shoope.exe
+C:\Users\LENOVO\source\repos\Shoope\Shoope\obj\Debug\Shoope.pdb
